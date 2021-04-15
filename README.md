@@ -1,5 +1,7 @@
 # 👷 Durable Objects Counter template
 
+## NOTE: You must be using wrangler 1.16 or newer to use this template
+
 A template for kick starting a Cloudflare Workers project using:
 
 - Durable Objects
